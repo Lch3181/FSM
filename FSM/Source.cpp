@@ -135,7 +135,7 @@ void EmailFSM()
 	}
 	else
 	{
-		cout << "Input rejected" << endl;
+		cout << "Input rejected becuase not an email" << endl;
 	}
 
 	//delete pointers
